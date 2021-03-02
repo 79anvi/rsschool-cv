@@ -6,7 +6,7 @@ email: 79andvik@gmail.com
 
 ## About
 
->I am from Belarus, Grodno. I am 39 years old. I am think a career change and my goal is to improve theoretical knowledge, get practical experience in building web applications. 
+>I am from Belarus, Grodno. I am 39 years old. I am think a career change and my goal is to improve theoretical knowledge and get practical experience in building web applications. 
 
 ## Skills
 *basic, but ready to explore further*
