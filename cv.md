@@ -3,7 +3,7 @@
 ## Contact
 
 email: 79andvik@gmail.com
-*Belarus, Grodno*
+Belarus, Grodno
 
 ## Hard Skills:
 *basic, but ready to explore further*
@@ -34,5 +34,5 @@ Yanka Kupala State University of Grodno. Mathematician-programmer. 1999-2004.
 
 ## Knowledge Of Languages:
 
-* English (A1) *ready to explore further*
+* English (A1)
 * Russian (native)
