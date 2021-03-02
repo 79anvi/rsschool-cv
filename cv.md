@@ -1,7 +1,5 @@
 # Andrei Siandzevich
 
-[[_TOC_]]
-
 ## Contact
 
 email: 79andvik@gmail.com
@@ -20,7 +18,7 @@ email: 79andvik@gmail.com
 
 ## Example of my code
 
-```
+```javascript
 function findShort(s){
   arr = [];
   arr = s.split(' ');
