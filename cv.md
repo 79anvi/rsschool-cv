@@ -8,7 +8,7 @@ email: 79andvik@gmail.com
 
 I am from Belarus, Grodno. I am 39 years old. I am think a career change and my goal is to improve theoretical knowledge, get practical experience in building web applications. 
 
-## Hard Skills:
+## Skills
 *basic, but ready to explore further*
 
 * HTML/CSS 
@@ -16,7 +16,7 @@ I am from Belarus, Grodno. I am 39 years old. I am think a career change and my 
 * PHP
 * MySQL
 
-## Example of my code:
+## Example of my code
 
 ```
 function findShort(s){
@@ -31,11 +31,11 @@ function findShort(s){
 }
 ```
 
-## Education:
+## Education
 
 Yanka Kupala State University of Grodno. Mathematician-programmer. 1999-2004.
 
-## Knowledge Of Languages:
+## Knowledge Of Languages
 
 * English (A1)
 * Russian (native)
